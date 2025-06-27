@@ -1,11 +1,11 @@
 ## About me
 
-I'm a 2nd year student at UCL studying Bsc Data Science, I really like machine learning/general algorithm approaches that either take inspiration from nature (eg the Ant algorithm) or are elegant in their simplicity (eg, MENACE). I'm also interested in the way generating functions are able to store so much information as well as their uniqueness. I am also interested in approaches/corrections for (arbritrary) decisions, such as the 5% significance level\
-Outside of stats and coding, I enjoy baking, playing badminton and taking long walks and spending time with my 🐐
+I'm a 2nd year student at UCL studying Bsc Data Science, I have a particular interest in biostatistics and the general implementation of statistical methods in healthcare and medicine.
+Outside of statistics and coding, I enjoy baking, playing badminton and taking long walks and spending time with my 🐐
 
-### Projects and fun competitions (in order of value)
-- TSP modelling for Badminton footwork (Ant algorithm, simulated annealing, Concorde) FILE HERE
-- MySQL Charity Database Design for Tracking SDGs FILE HERE
+### Projects and fun competitions
+- TSP modelling for Badminton footwork (Ant algorithm, simulated annealing, Concorde) 
+- MySQL Charity Database Design for Tracking SDGs 
 - CanSat competition in conjunction with ESA
 - Linear Analysis of Archivex physics papers
 - Themepark Modelling with Python
